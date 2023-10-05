@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import {useState } from 'react';
 import './App.css';
 import CreateTask from './components/CreateTask';
 import Header from './components/layouts/Header';
